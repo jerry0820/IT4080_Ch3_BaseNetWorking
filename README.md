@@ -1,1 +1,2 @@
-# IT4080_Ch3_BaseNetWorking
+# IT4080_BaseNetworkingProject
+The basic setup for a networking project.
